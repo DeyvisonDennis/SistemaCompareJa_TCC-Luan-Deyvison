@@ -1,3 +1,4 @@
+
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="Model.AlocacaoProdutoMercado"%>
 <%@page import="Model.Lista"%>

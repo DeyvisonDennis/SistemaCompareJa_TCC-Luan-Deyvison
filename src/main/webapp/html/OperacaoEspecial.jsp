@@ -1,3 +1,4 @@
+
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="Model.AlocacaoProdutoLista"%>
 <%@page import="java.sql.ResultSet"%>
